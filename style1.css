@@ -1,0 +1,71 @@
+body{
+  background-color:#191919
+}
+#quadrado {
+  width: 27vw;
+  height: 36.6vh;
+  background: #4f77ff;
+  position: relative;
+  left:35vw;
+  top:29vh;
+}
+#preto1{
+  position: absolute;
+  width: 15vw;
+  height: 20vh;
+  background-color: #191919;
+  border-radius:50%;
+  top: 22.5vh;
+  left: 30vw;
+  -webkit-box-reflect: right 7.9vw;
+}
+#preto2{
+  position: absolute;
+  width:15vw;
+  height: 20vh;
+  background-color: #191919;
+  border-radius:50%;
+  top: 52.5vh;
+  left: 30vw;
+  -webkit-box-reflect: right 7.9vw;
+}
+#beje1{
+  position: absolute;
+  width: 11vw;
+  height: 15vh;
+  background-color: #f9e492;
+  border-radius:50%;
+  top: 23vh;
+  left: 31vw;
+  -webkit-box-reflect: right 14vw;
+}
+#beje2{
+  position: absolute;
+  width: 11vw;
+  height: 15vh;
+  background-color: #f9e492;
+  border-radius:50%;
+  top: 56vh;
+  left: 31vw;
+  -webkit-box-reflect: right 14vw;
+}
+#azul1{
+  position: absolute;
+  width: 7.5vw;
+  height: 10vh;
+  background-color: #4f77ff;
+  border-radius:50%;
+  top: 23.5vh;
+  left: 31.5vw;
+  -webkit-box-reflect: right 20vw;
+}
+#azul2{
+  position: absolute;
+  width: 7.5vw;
+  height: 10vh;
+  background-color: #4f77ff;
+  border-radius:50%;
+  top: 60.5vh;
+  left: 31.5vw;
+  -webkit-box-reflect: right 20vw;
+}

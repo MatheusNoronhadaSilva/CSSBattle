@@ -1,0 +1,37 @@
+body{
+    background-color: rosybrown;
+    width: 100vw;
+    height: 100vh;
+}
+a{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    font-size: 5vw;
+}
+#tabela{
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    left: 25vw;
+    top: 30vh;
+    gap: 10vh;
+}
+#b1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: sandybrown;
+    height: 20vh;
+    width: 50vw;
+    border-radius: 32vw;
+}
+#b2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: sandybrown;
+    height: 20vh;
+    width: 50vw;
+    border-radius: 32vw;
+}

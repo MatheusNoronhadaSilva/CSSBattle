@@ -1,0 +1,34 @@
+  *{
+    padding:0;
+    margin:0;
+    box-sizing: border-box;
+  }
+  body {
+    width: 100vw;
+    height: 100vh;
+    padding: 12.5vw 16.5vh;
+    background: #62374e;
+  }
+  .quadrados {
+    width: 12.4vw;
+    height: 16.6vh;
+    background-color: #fdc57b;
+  }
+  .linha1 {
+    display:flex;
+    flex-direction:row;
+    justify-content:space-between;
+    
+  }
+  .linha2{
+    display:flex;
+    flex-direction:row;
+    justify-content:space-between;
+    
+  }
+  .linhas{
+    display:grid;
+    width:100%;
+    height:100%;
+    gap:33.4vh;
+  }
